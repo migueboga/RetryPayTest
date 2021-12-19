@@ -1,0 +1,3 @@
+include ':rickandmorti'
+include ':app'
+rootProject.name = "RetryPayTest"
